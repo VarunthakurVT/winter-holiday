@@ -6,3 +6,4 @@ int main(){
     cout<<"varun thakur \n";
     return 0;
 }
+// .cpp is the extension of c++
